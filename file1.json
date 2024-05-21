@@ -1,0 +1,19 @@
+{
+    "name": "Jan Ani",
+    "age": 25,
+    "city": "Tuticorin",
+    "email": "janu302000@gmail.com",
+    "is_employee": false,
+    "purchase": {
+        "mouse": 390,
+        "keyboard": 1000,
+        "earphones": 1500,
+        "coolers": 2000
+    },
+    
+    "address": {
+        "street": "29/5 Sm Puram,Second St",
+        "city": "Tuticorin",
+        "zip_code": "628003"
+    }
+}
